@@ -119,3 +119,26 @@ Now, write the changes to disk
 
 ![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap11.png)
 
+For the next step, I chose to have netowrk mirrors as it can help supplement the software that is included with the installation media
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap13.png)
+
+If you are using a proxy, you may want to put the http proxy information. Otherwise you can leave it blank and move on 
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap14.png)
+
+The important part of this step is to make sure you check yes to have the grub boot loader enabled. If you do not, then **Kali Linux** will not load. Make sure to input dev/sda.
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap15.png)
+
+Before rebooting the VM, go to the **VMWare** settings for **Kali Linux**. On the CD/DVD settings, make sure the "Connected at power" box is unchecked. If not, then the installation process will begin once again after booting up the VM. Finish the installation process and then reboot.
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/uncheck.png)
+
+Once the VM is rebooted, you should be prompted with a login screen. Input the username and password you created within the installer
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kalilogin.png)
+
+### You're Kali Linux machine is now ready for use. Congratulations!
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kalilogin2.png)
