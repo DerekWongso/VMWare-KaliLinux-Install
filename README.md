@@ -55,3 +55,30 @@ Name your virtual machine. In this example, I named my VM **DWKaliLinux**
 Input the number of processors and cores you want to give to your virtual machine. The amount you can give depends on the specifications of your computer. In this case, I gave my virtual machine 2 processors and 2 cores. 
 
 ![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/core.png)
+
+Input how much virtual memory or VRAM you want to give your virtual machine. This determines how fast your VM will run. The more VRAM you can provide, the better the speed
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/vram.png)
+
+Choose NAT if you want to utilize the internet on your VM. 
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/nat.png)
+
+For disk and I/O controller settings, I used the reccommended settings
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/iocon.png)
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/SCSI.png)
+
+Input how much disk capacity you want for the VM. For the demonstration, I used 100 Gb of disk capacity. 20 is the reccommended 
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/vdisksize.png)
+
+Go to the CD/DVD settings and set the ISO image path to the **Kali Linux** ISO.
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/isopath.png)
+
+Power up Kali Linux and choose advanced installer, and then graphical installer
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kalistart.png)
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kalistart2.png)
+
