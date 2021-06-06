@@ -82,3 +82,40 @@ Power up Kali Linux and choose advanced installer, and then graphical installer
 ![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kalistart.png)
 ![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kalistart2.png)
 
+Once the installer loads up, choose the language you want and location
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap1.png)
+
+Choose the keyboard configuration you want. I chose American English
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/Kaligap2.png)
+
+Enter a hostname for the system. For my hostname, it is **DWKali.**
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/Kaligap3.png)
+
+Create a domain name for part of your internet address
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap4.png)
+
+Create your username
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap5.png)
+
+Create your login password
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap6.png)
+
+Set up your time zone
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap7.png)
+
+Use the entire disk to partition and put all the files in one partition as reccommended
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap8.png)
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap10.png)
+
+Now, write the changes to disk 
+
+![github-small](https://github.com/DerekWongso/VMWare-KaliLinux-Install/blob/main/images/kaligap11.png)
+
